@@ -1,2 +1,2 @@
 # Ecommerce-sales-analysis-using-power-bi
-data analysis using the power bi  features 
+An interactive Power BI dashboard analyzing ecommerce sales across regions, cities, and product categories. Provides insights into total sales, order volumes, customer distribution, and product quantities for data-driven decision making.
